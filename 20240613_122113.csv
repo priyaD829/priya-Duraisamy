@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+bharathi2,Chrome 125.0.0.0,,,13-06-2024 12:21:20,13-06-2024 12:22:40,1m - 20.171s,FAILED
+,,,,,,,
+Test Cases/annauniv/annauniv1,Chrome 125.0.0.0,,,13-06-2024 12:21:20,13-06-2024 12:21:39,18.987s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 12:21:21,13-06-2024 12:21:23,2.086s,PASSED
+"navigateToUrl(""https://annauniv.edu/"")",Chrome 125.0.0.0,,,13-06-2024 12:21:23,13-06-2024 12:21:30,7.112s,PASSED
+"click(findTestObject(""Object Repository/Page_Anna University, Chennai/a_Departments""))",Chrome 125.0.0.0,,,13-06-2024 12:21:30,13-06-2024 12:21:30,0.496s,PASSED
+"click(findTestObject(""Object Repository/Page_Anna University, Chennai/a_Research""))",Chrome 125.0.0.0,,,13-06-2024 12:21:30,13-06-2024 12:21:31,0.335s,PASSED
+"click(findTestObject(""Object Repository/Page_Anna University, Chennai/a_Innovations""))",Chrome 125.0.0.0,,,13-06-2024 12:21:31,13-06-2024 12:21:31,0.326s,PASSED
+"click(findTestObject(""Object Repository/Page_Anna University, Chennai/a_Examinations""))",Chrome 125.0.0.0,,,13-06-2024 12:21:31,13-06-2024 12:21:31,0.318s,PASSED
+"click(findTestObject(""Object Repository/Page_Anna University, Chennai/a_Curriculum""))",Chrome 125.0.0.0,,,13-06-2024 12:21:31,13-06-2024 12:21:32,0.352s,PASSED
+"switchToWindowTitle(""Centre for Academic Courses"")",Chrome 125.0.0.0,,,13-06-2024 12:21:32,13-06-2024 12:21:38,6.421s,PASSED
+"click(findTestObject(""Object Repository/Page_Centre for Academic Courses/a_Undergraduate""))",Chrome 125.0.0.0,,,13-06-2024 12:21:38,13-06-2024 12:21:38,0.343s,PASSED
+"click(findTestObject(""Object Repository/Page_Centre for Academic Courses/a_Postgraduate""))",Chrome 125.0.0.0,,,13-06-2024 12:21:38,13-06-2024 12:21:39,0.553s,PASSED
+"click(findTestObject(""Object Repository/Page_Centre for Academic Courses/a_Forms""))",Chrome 125.0.0.0,,,13-06-2024 12:21:39,13-06-2024 12:21:39,0.330s,PASSED
+,,,,,,,
+Test Cases/bharathi/bharathi2,Chrome 125.0.0.0,,,13-06-2024 12:21:39,13-06-2024 12:22:40,1m - 0.723s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 12:21:39,13-06-2024 12:21:41,1.966s,PASSED
+"navigateToUrl(""https://b-u.ac.in/"")",Chrome 125.0.0.0,,,13-06-2024 12:21:41,13-06-2024 12:21:51,10.083s,PASSED
+"click(findTestObject(""Object Repository/Page_Home  Bharathiar University/a_CUIC Courses""))",Chrome 125.0.0.0,,,13-06-2024 12:21:51,13-06-2024 12:21:53,1.734s,PASSED
+"click(findTestObject(""Object Repository/Page_Home  Bharathiar University/a_Online Payment""))",Chrome 125.0.0.0,,,13-06-2024 12:21:53,13-06-2024 12:22:25,31.979s,PASSED
+"switchToWindowTitle(""BU-Online Payment Portal"")",Chrome 125.0.0.0,,,13-06-2024 12:22:25,13-06-2024 12:22:37,11.707s,PASSED
+"click(findTestObject(""Object Repository/Page_BU-Online Payment Portal/a_Cancellation  Refund Policy""))",Chrome 125.0.0.0,,,13-06-2024 12:22:37,13-06-2024 12:22:37,0.338s,PASSED
+"click(findTestObject(""Object Repository/Page_BU-Online Payment Portal/a_Frequently Asked Questions""))",Chrome 125.0.0.0,,,13-06-2024 12:22:37,13-06-2024 12:22:38,0.306s,PASSED
+"click(findTestObject(""Object Repository/Page_BU-Online Payment Portal/a_Home""))",Chrome 125.0.0.0,,,13-06-2024 12:22:38,13-06-2024 12:22:38,0.336s,PASSED
+"click(findTestObject(""Object Repository/Page_BU-Online Payment Portal/a_Privacy Policy""))",Chrome 125.0.0.0,,,13-06-2024 12:22:38,13-06-2024 12:22:38,0.298s,PASSED
+"click(findTestObject(""Object Repository/Page_BU-Online Payment Portal/a_Home""))",Chrome 125.0.0.0,,,13-06-2024 12:22:38,13-06-2024 12:22:38,0.291s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,13-06-2024 12:22:38,13-06-2024 12:22:40,1.534s,PASSED
+,,,,,,,
+Test Cases/mkunivers,Chrome 125.0.0.0,,,13-06-2024 12:22:40,13-06-2024 12:22:40,0.032s,FAILED
+"navigateToUrl(""https://mkuniversity.ac.in/new/"")",Chrome 125.0.0.0,,,13-06-2024 12:22:40,13-06-2024 12:22:40,0.007s,FAILED
